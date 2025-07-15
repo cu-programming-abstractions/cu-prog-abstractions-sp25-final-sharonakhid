@@ -68,7 +68,6 @@ bool canPassDoor(char door, int keyMask);
 int collectKey(char key, int keyMask);
 
 // Uncomment the line below if you want to implement the optional intermediate challenge
-// #define IMPLEMENT_OPTIONAL_FUNCTIONS
 
 #ifdef IMPLEMENT_OPTIONAL_FUNCTIONS
 /**
